@@ -8,8 +8,9 @@ I’m interested in Computer vision, Natural Language Processing(NLP), and Reinf
 <a href="isy92123@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isy92123@gmail.com)"/></a>
 </p>
 
+
 ### 🔍 I'm interested in...
-___
+<h6>___
 - Deep Learning, Machine Learning
     - Image Classification
     - NLP
