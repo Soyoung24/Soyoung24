@@ -2,7 +2,9 @@
 
 Nice to meet you! I’m a growth-oriented data scientist.  
 I’m interested in Computer vision, Natural Language Processing(NLP), and Reinforcement Learning(RL).
-<p>
+
+
+<p align=center>
 <a href="https://sotudy.tistory.com/"><img src="https://img.shields.io/badge/My blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://sotudy.tistory.com/"/></a>  
 <a href="https://soyoung24.github.io/"><img src="https://img.shields.io/badge/Homepage-D0A9F5?style=flat-square&logo=Home Assistant&logoColor=white&link=https://soyoung24.github.io/"/></a>  
 <a href="isy92123@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isy92123@gmail.com)"/></a>
