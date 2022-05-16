@@ -1,4 +1,4 @@
-## Hi there, I’m Soyoung! 👋
+# Hi there, I’m Soyoung! 👋
 
 Nice to meet you! I’m a growth-oriented data scientist.  
 I’m interested in Computer vision, Natural Language Processing(NLP), and Reinforcement Learning(RL).
@@ -9,7 +9,7 @@ I’m interested in Computer vision, Natural Language Processing(NLP), and Reinf
 </p>
 
 
-### 👩‍💻 Programming Language
+## 👩‍💻 Programming Language
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -17,7 +17,8 @@ I’m interested in Computer vision, Natural Language Processing(NLP), and Reinf
 </p>
 
 
-### 🔍 I'm interested in...
+
+## 🔍 I'm interested in...
 
 - Deep Learning, Machine Learning
     - Image Classification
@@ -30,7 +31,7 @@ I’m interested in Computer vision, Natural Language Processing(NLP), and Reinf
 
 
 
-### 🙋‍♀️ About me
+## 🙋‍♀️ About me
 
 🏢 I’m currently walking at [한국원자력연구원(KAERI)](https://www.kaeri.re.kr/) 인공지능응용전략실 as an intern researcher.  
 👩‍🎓 I am a master of statistics.  
