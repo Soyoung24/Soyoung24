@@ -9,8 +9,15 @@ I’m interested in Computer vision, Natural Language Processing(NLP), and Reinf
 </p>
 
 
+### 👩‍💻 Programming Language
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
+</p>
+
+
 ### 🔍 I'm interested in...
---------------
 
 - Deep Learning, Machine Learning
     - Image Classification
@@ -21,12 +28,6 @@ I’m interested in Computer vision, Natural Language Processing(NLP), and Reinf
 - Audio and sensor data (or Time series data)
 
 
-### 👩‍💻 Programming Language
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
-</p>
 
 
 ### 🙋‍♀️ About me
