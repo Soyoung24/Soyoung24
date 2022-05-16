@@ -10,6 +10,7 @@ I’m interested in Computer vision, Natural Language Processing(NLP), and Reinf
 
 
 ### 🔍 I'm interested in...
+<hr /> ---
 
 - Deep Learning, Machine Learning
     - Image Classification
