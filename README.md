@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=0,1,2&height=100&section=header&text=Hi%20there,%20I'm%20Soyoung!👋&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=0,1,3,4,5,6,7,8,9&height=100&section=header&text=Hi%20there,%20I'm%20Soyoung!👋&fontSize=30)
 
 
 Nice to meet you! I’m a growth-oriented data scientist.  
