@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=0,1,3,4,5,6,7,8,9&height=100&section=header&text=Hi%20there,%20I'm%20Soyoung!👋&fontSize=30)
 
 
-Nice to meet you! I’m a growth-oriented data scientist.  
+Nice to meet you! I work as a data scientist. I always looking to improve myself every day.
 I’m interested in Computer vision, Natural Language Processing(NLP), and Reinforcement Learning(RL).
 
 
@@ -36,11 +36,11 @@ I’m interested in Computer vision, Natural Language Processing(NLP), and Reinf
 
 ## 🙋‍♀️ About me
 
-🏢 I’m currently walking at [한국원자력연구원(KAERI)](https://www.kaeri.re.kr/) 인공지능응용전략실 as an intern researcher.  
-👩‍🎓 I am a master of statistics.  
-🚀 I always try to improve myself and learn something new.  
-💡 I like to start new things and make routines.  
-🌱 I really like nature and picnic.  
+🏢 I’m currently working at [한국원자력연구원(KAERI)](https://www.kaeri.re.kr/) 인공지능응용전략실 as an intern researcher.  
+👩‍🎓 I have a master's in statistics.  
+🚀 I always trying to improve myself by learning something new.  
+💡 I like exploring new things and improving my personal habits(routines).  
+🌱 I like being outdoors and going on a picnic.  
 
 
 
