@@ -35,7 +35,7 @@ I’m interested in Computer vision, Natural Language Processing(NLP), and Reinf
 
 
 ## 🙋‍♀️ About me
-🏢 I’m currently working at Hankook Tire & Technology Data Analytics Project.
+🏢 I’m currently working at Hankook Tire & Technology Data Analytics Project.   
     I worked at [한국원자력연구원(KAERI)](https://www.kaeri.re.kr/) 인공지능응용전략실 as an intern researcher.  
 👩‍🎓 I have a master's in statistics.  
 🚀 I always trying to improve myself by learning something new.  
